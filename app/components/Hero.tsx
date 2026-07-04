@@ -2,7 +2,6 @@
 
 import { ArrowRight, Github, Mail, MessageCircle } from 'lucide-react'
 import { motion } from 'framer-motion'
-import Link from 'next/link'
 
 export default function Hero() {
   const containerVariants = {
